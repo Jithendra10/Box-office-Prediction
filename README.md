@@ -8,12 +8,6 @@ This project aims to predict the box office revenue of movies using machine lear
 
 - `Box office Prediction.ipynb`: The main Jupyter notebook containing the entire workflow from data loading to model evaluation.
 
-## Data
-
-The dataset used in this project is too large to be included directly in the repository. You can download the dataset from the following link:
-
-[Download Dataset](https://drive.google.com/file/d/1rQkrteTuXGTWLjxzRz9K9HOKUNGUEWaD/view?usp=sharing)
-
 ## Features
 
 - Data preprocessing: Cleaning and preparing the data for modeling.
