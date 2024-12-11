@@ -36,6 +36,9 @@ To improve the predictive power of the model, several new features were engineer
 
 - **SVM**
 - **Random Forest**
+- **XG Boost**
+- **Cat Boost**
+  
 
 ## Feature Ranking
 
